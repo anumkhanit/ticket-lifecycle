@@ -31,14 +31,12 @@
 
 - Assign it to the relevant department or team.
 
-- Ticket Lifecycle:
-
-Tickets in osTicket go through various stages, from creation to resolution. These stages often include:
-  - New: The ticket is newly created and awaiting assignment.
-  - Open: The ticket has been assigned and is in the process of being addressed.
-  - Overdue: The ticket has exceeded its expected resolution time.
-  - Resolved: The issue has been resolved, and the ticket is waiting for confirmation from the requester.
-  - Closed: The ticket is closed after successful resolution and confirmation.
+- Tickets in osTicket go through various stages, from creation to resolution:
+    - New: The ticket is newly created and awaiting assignment.
+    - Open: The ticket has been assigned and is in the process of being addressed.
+    - Overdue: The ticket has exceeded its expected resolution time.
+    - Resolved: The issue has been resolved, and the ticket is waiting for confirmation from the requester.
+    - Closed: The ticket is closed after successful resolution and confirmation.
 
 <h3>Ticket Examples:</h3>
 <p>Let's explore some ticket examples to better understand how to handle them within osTicket:</p>
